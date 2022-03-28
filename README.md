@@ -9,7 +9,7 @@ Currently learning React.
 JavaScript Apps:
 
 - [x] [Todo App](https://radoslawlagan.github.io/Todo-app/) - A Todo app with few twists.
-[Tip Calculator App](https://radoslawlagan.github.io/Tip-calculator-app/) - A classic tip calculator app.
+* [Tip Calculator App](https://radoslawlagan.github.io/Tip-calculator-app/) - A classic tip calculator app.
 [Advice Generator App](https://radoslawlagan.github.io/Advice-generator-app/) - An advice generator app.
 
 Landing Pages:
