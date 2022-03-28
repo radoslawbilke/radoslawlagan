@@ -4,7 +4,7 @@ I've been working as an IT Administrator since 2018 but In 2021 I've decided to 
 <br />
 Currently learning React.
 
-## My Projects 💻
+## Projects 💻
 
 JavaScript Apps:
 
