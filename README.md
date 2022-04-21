@@ -1,8 +1,6 @@
 ## Hello 🙂
 
-I've been working as an IT Administrator since 2018 but in 2021 I've decided to pursue a career in frontend development.
-<br />
-I am currently learning React.
+I've been working as an IT Administrator since 2018 but in 2021 I've decided to pursue a career in frontend development. I am currently learning React.
 
 All projects on my GitHub were coded by myself.
 
