@@ -4,7 +4,7 @@ I've been working as an IT Administrator since 2018 but in 2021 I've decided to 
 <br />
 I am currently learning React.
 
-All projects in my GitHub were coded by myself.
+All projects on my GitHub were coded by myself.
 
 ## Projects 💻
 
