@@ -8,9 +8,14 @@ All projects in my GitHub were coded by myself.
 
 ## Projects 💻
 
+🔵 React Apps:
+
+- [x] [Card Draw Simulator App](https://radoslawlagan.github.io/Card-draw-simulator-app/) - An app that draws a random card from the deck.
+
 🟡 JavaScript Apps:
 
 - [x] [Todo App](https://radoslawlagan.github.io/Todo-app/) - A Todo app with few twists.
+- [x] [Calculator App](https://radoslawlagan.github.io/Calculator-app/) - A classic calculator app.
 - [x] [Tip Calculator App](https://radoslawlagan.github.io/Tip-calculator-app/) - A classic tip calculator app.
 - [x] [Advice Generator App](https://radoslawlagan.github.io/Advice-generator-app/) - An advice generator app.
 
