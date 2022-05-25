@@ -19,7 +19,7 @@ All projects that are here were coded by myself.
 
 🟣 Landing Pages:
 
-- [x] [Covid-19]([https://radoslawlagan.github.io/Loopstudios-landing-page/](https://radoslawlagan.github.io/Corona-covid-19-landing-page/)) - Covid-19 landing page made with Tailwind CSS.
+- [x] [Covid 19]([https://radoslawlagan.github.io/Loopstudios-landing-page/](https://radoslawlagan.github.io/Corona-covid-19-landing-page/)) - Covid-19 landing page made with Tailwind CSS.
 - [x] [Loopstudios](https://radoslawlagan.github.io/Loopstudios-landing-page/) - Lopstudios landing page.
 - [x] [Sunnyside Agency](https://radoslawlagan.github.io/Sunnyside-agency-landing-page/) - Sunnyside Agency landing page.
 - [x] [Clipboard](https://radoslawlagan.github.io/Clipboard-landing-page/) - Clipboard landing page.
