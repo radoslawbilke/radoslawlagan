@@ -6,6 +6,8 @@ All projects that are here were coded by myself.
 
 ## Projects 💻
 
+🟢 Vue Apps:
+
 🔵 React Apps:
 
 - [x] [Card Draw Simulator App](https://radoslawlagan.github.io/Card-draw-simulator-app/) - An app that draws a random card from the deck.
@@ -24,6 +26,6 @@ All projects that are here were coded by myself.
 - [x] [Sunnyside Agency](https://radoslawlagan.github.io/Sunnyside-agency-landing-page/) - Sunnyside Agency landing page.
 - [x] [Clipboard](https://radoslawlagan.github.io/Clipboard-landing-page/) - Clipboard landing page.
 
-🟢 Websites:
+🟠 Websites:
 
 - [x] [Kobra Website](https://radoslawlagan.github.io/Kobra-website/) - Veterinary clinic website project made with Bootstrap 5.
