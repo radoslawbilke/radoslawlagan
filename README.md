@@ -1,6 +1,6 @@
 ## Hello 🙂
 
-I've been working as an IT Administrator since 2018 but in 2021 I've decided to pursue a career in frontend development. I am currently learning React.
+I've been working as an IT Administrator since 2018 but in 2021 I've decided to pursue a career in frontend development. I am currently learning and working with Vue.js.
 
 All projects that are here were coded by myself.
 
