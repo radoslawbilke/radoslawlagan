@@ -18,8 +18,6 @@ All projects that are here were coded by myself.
 
 ## Other Projects 💻
 
-🟢 Vue Apps:
-
 🔵 React Apps:
 
 - [x] [Card Draw Simulator App](https://radoslawlagan.github.io/Card-draw-simulator-app/) - An app that draws a random card from the deck.
