@@ -1,10 +1,22 @@
 ## Hello 🙂
 
-I've been working as an IT Administrator since 2018 but in 2021 I've decided to pursue a career in frontend development. I am currently working with Vue.js and Nuxt.js.
+I am a passionate Frontend Developer. I am currently learning and working with Vue.js and Nuxt.js.
 
 All projects that are here were coded by myself.
 
-## Projects 💻
+## Best Projects 💻
+
+🟢 Vue App:
+
+🟡 JavaScript App:
+
+- [x] [Todo App](https://radoslawlagan.github.io/Todo-app/) - A Todo app with few twists.
+
+🟣 Landing Page:
+
+- [x] [Covid-19](https://radoslawlagan.github.io/Corona-covid-19-landing-page/) - Covid-19 landing page made with Tailwind CSS.
+
+## Other Projects 💻
 
 🟢 Vue Apps:
 
@@ -14,14 +26,12 @@ All projects that are here were coded by myself.
 
 🟡 JavaScript Apps:
 
-- [x] [Todo App](https://radoslawlagan.github.io/Todo-app/) - A Todo app with few twists.
 - [x] [Calculator App](https://radoslawlagan.github.io/Calculator-app/) - A classic calculator app.
 - [x] [Tip Calculator App](https://radoslawlagan.github.io/Tip-calculator-app/) - A classic tip calculator app.
 - [x] [Advice Generator App](https://radoslawlagan.github.io/Advice-generator-app/) - An advice generator app.
 
 🟣 Landing Pages:
 
-- [x] [Covid-19](https://radoslawlagan.github.io/Corona-covid-19-landing-page/) - Covid-19 landing page made with Tailwind CSS.
 - [x] [Loopstudios](https://radoslawlagan.github.io/Loopstudios-landing-page/) - Lopstudios landing page.
 - [x] [Sunnyside Agency](https://radoslawlagan.github.io/Sunnyside-agency-landing-page/) - Sunnyside Agency landing page.
 - [x] [Clipboard](https://radoslawlagan.github.io/Clipboard-landing-page/) - Clipboard landing page.
