@@ -8,6 +8,8 @@ All projects that are here were coded by myself.
 
 🟢 Vue App:
 
+- [x] [Where In The World App](https://radoslawlagan.github.io/where-in-the-world/) - An App made with Vue.js, Nuxt.js, REST API, color theme etc.
+
 🟡 JavaScript App:
 
 - [x] [Todo App](https://radoslawlagan.github.io/Todo-app/) - A Todo app with few twists.
