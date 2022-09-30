@@ -8,7 +8,7 @@ All projects that are here were coded by myself.
 
 🟢 Vue App:
 
-- [x] [Where In The World App](https://radoslawlagan.github.io/where-in-the-world/) - An App made with Vue.js, Nuxt.js, REST API, color theme etc.
+- [x] [Where In The World App](https://radoslawlagan.github.io/where-in-the-world/) - An App made with Vue.js, Nuxt.js, REST API / work in progress (additional features planned: cookies, language versions - i18n, etc. :))
 
 🟡 JavaScript App:
 
