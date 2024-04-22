@@ -1,8 +1,6 @@
 ## Hello 🙂
 
-I am a passionate Frontend Developer. I am currently learning and working with Vue.js and Nuxt.js.
-
-All projects that are here were coded by myself.
+I am a passionate Frontend Developer. All the projects that are here were coded by myself.
 
 ## Best Projects 💻
 
