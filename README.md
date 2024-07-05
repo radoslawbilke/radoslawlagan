@@ -1,6 +1,6 @@
 ## Hello 🙂
 
-I am a passionate Frontend Developer. All the projects that are here were coded by myself.
+All the projects that are here were coded by myself and where coded in early 2022.
 
 ## Best Projects 💻
 
