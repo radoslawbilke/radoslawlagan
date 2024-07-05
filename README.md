@@ -1,6 +1,6 @@
 ## Hello 🙂
 
-All the projects that are here were coded by myself in early 2022. Since then I was 100% focused on the projects in my jobs, hence no updates here.
+All the projects that are here were coded by myself in early 2022. Since then I was 100% focused on the projects in my jobs, hence no updates.
 
 ## Best Projects 💻
 
